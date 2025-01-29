@@ -1,0 +1,61 @@
+Platform Definitions:
+LinuxPlatform refers to gaming platforms that operate on Linux systems.
+WindowsPlatform refers to gaming platforms that operate on Windows systems.
+MacOSXPlatform refers to gaming platforms that operate on macOS systems.
+Game Definitions:
+Game: LeagueOfLegends
+
+LeagueOfLegends is a multiplayer online game categorized under the "GameClass".
+It is available on the following platforms:
+MacOSXPlatform
+WindowsPlatform
+Relationships:
+
+LeagueOfLegends requires the WindowsPlatform or MacOSXPlatform.
+Restrictions:
+
+LeagueOfLegends is a type of Multiplayer game.
+LeagueOfLegends has difficulty.
+LeagueOfLegends must be played online.
+Game: WorldOfWarcraft
+
+WorldOfWarcraft is an online role-playing game categorized under the "GameClass".
+It is available on the following platforms:
+WindowsPlatform
+Relationships:
+
+WorldOfWarcraft requires WindowsPlatform.
+Restrictions:
+
+WorldOfWarcraft is a type of RolePlayGame.
+WorldOfWarcraft has difficulty.
+WorldOfWarcraft must have an internet connection to play.
+Game: Sudoku
+
+Sudoku is a puzzle game categorized under the "GameClass".
+Sudoku has difficulty.
+It is available on the following platforms:
+LinuxPlatform
+WindowsPlatform
+MacOSXPlatform
+Relationships:
+
+Sudoku requires both LinuxPlatform or WindowsPlatform or MACOSXPlatform.
+Restrictions:
+
+Sudoku is a type of Puzzle game.
+Sudoku must have a difficulty..
+Game: Chess
+
+Chess is a strategy game categorized under the "GameClass".
+Chess has difficulty.
+It is available on the following platforms:
+WindowsPlatform
+MacOSXPlatform
+LinuxPlatform
+Relationships:
+
+Chess requires the LinuxPlatform or WindowsPlatform or MacOSXPlatform.
+Restrictions:
+
+Chess is a type of SinglePlayer game.
