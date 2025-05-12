@@ -16,8 +16,8 @@ The first phase of this project is a Flask web application that uses an OWL onto
 ### Setup Instructions
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/satilmiskabasakal0/ontology-game-recommendation.git
-   cd ontology-game-recommendation
+   https://github.com/satilmiskabasakal0/ontology-semantic-map-with-llm.git
+   cd /ontology-semantic-map-with-llm
    ```
 
 2. **Install Dependencies**
